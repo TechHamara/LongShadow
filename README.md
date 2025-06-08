@@ -18,6 +18,9 @@ A component that creates long shadow effects for views with customizable angle, 
 -----
 
 ## Demo
+
+![longShadow.png](https://github.com/user-attachments/assets/d547b796-d9c5-4946-9b0e-a3a032a9de4f)
+
 ![Screenshot_2025-06-08-11-36-21-882_appinventor.ai_Techhamara91.long_shadow.jpg](https://github.com/user-attachments/assets/eb9ac386-5200-4c7b-b295-810b984dedf9)
 
 ## Blocks 
