@@ -6,12 +6,16 @@ A component that creates long shadow effects for views with customizable angle, 
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.longshadow
-💾 **Size:** 12.40 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-06-07 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+📦 **Package:** io.th.longshadow<br>
+💾 **Size:** 12.40 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-06-07 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
+📚 **Library Use On:** [TintLayout](https://github.com/Devlight/TintLayout) thanks you Devlight for this library.
+<br>
+
+-----
 
 ![GradientColors_Method](https://github.com/user-attachments/assets/da457634-e9cb-4288-b0f2-3d0df7babc1a)
 ![ClearGradientColors_Method](https://github.com/user-attachments/assets/d4ca6bda-8359-430d-af5f-07eea47b5646)
